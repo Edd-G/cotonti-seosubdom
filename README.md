@@ -1,2 +1,2 @@
-# cotonti-seosubdom
+# seosubdom
 Plugin for Cotonti CMS for manage subdomains 
